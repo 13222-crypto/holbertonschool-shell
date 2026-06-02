@@ -25,3 +25,4 @@ eof
 * `12-combinations`: A script that prints all possible combinations of two lowercase letters from a to z, except `oo`, one per line.
 * `13-print_float`: A script that prints a number stored in the environment variable `NUM` with exactly two decimal places.
 * `14-decimal_to_hexadecimal`: A script that converts a decimal number stored in the environment variable `DECIMAL` to hexadecimal.
+* `15-rot13`: A script that encodes and decodes text using the ROT13 encryption.
