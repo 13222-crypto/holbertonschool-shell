@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -d '\n' - -
+xargs -L 2 | cut -d' ' -f1
