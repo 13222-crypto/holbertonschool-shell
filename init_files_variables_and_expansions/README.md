@@ -26,3 +26,4 @@ eof
 * `13-print_float`: A script that prints a number stored in the environment variable `NUM` with exactly two decimal places.
 * `14-decimal_to_hexadecimal`: A script that converts a decimal number stored in the environment variable `DECIMAL` to hexadecimal.
 * `15-rot13`: A script that encodes and decodes text using the ROT13 encryption.
+* `16-odd`: A script that prints every other line from the input, starting with the first line.
