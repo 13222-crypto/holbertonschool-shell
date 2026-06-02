@@ -1,0 +1,1 @@
+This project is about Shell initialization files, variables and expansions.
